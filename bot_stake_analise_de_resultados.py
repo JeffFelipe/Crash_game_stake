@@ -46,9 +46,9 @@ resultado = []
 banca = []
 
 crashpoint = 5  # Quanto x deseja parar
-stake = 0.002  # Stake fixa
+stake = 0.00045  # Stake fixa
 casas_para_gale = 40  # quantas vezes desejar fazer gale
-nivel_gale = 1.25
+nivel_gale = 1.30
 
 stake_gale = stake
 
